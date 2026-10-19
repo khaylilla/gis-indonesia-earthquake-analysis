@@ -1,0 +1,30 @@
+TEMUAN ANALISIS KATALOG GEMPA
+Jumlah kejadian dalam dataset: 92,887.
+Baris duplikat identik: 0.
+Koordinat valid untuk peta: 92,887; koordinat tidak valid/tidak lengkap: 0.
+Rentang waktu yang terbaca: 2008-11-01 sampai 2023-01-26 (92,887 baris terbaca).
+Magnitudo: rata-rata 3.59, median 3.50, rentang 1–7.9.
+Kedalaman: rata-rata 49.01, median 16.00, rentang 2–750.
+Korelasi Pearson magnitudo-kedalaman: r=0.235 (n=92,887); ini asosiasi, bukan bukti sebab-akibat.
+Sepuluh label lokasi dengan jumlah kejadian terbanyak:
+  1. Minahassa Peninsula - Sulawesi: 9,433
+  2. Sulawesi - Indonesia: 7,897
+  3. Sumbawa Region - Indonesia: 7,312
+  4. Java - Indonesia: 6,798
+  5. Northern Sumatra - Indonesia: 5,941
+  6. Southern Sumatra - Indonesia: 5,314
+  7. Banda Sea: 5,003
+  8. Northern Molucca Sea: 4,984
+  9. Seram - Indonesia: 4,325
+  10. Halmahera - Indonesia: 3,628
+Missing values pada kolom sumber:
+  strike1: 90,152
+  dip1: 90,152
+  rake1: 90,152
+  strike2: 90,152
+  dip2: 90,152
+  rake2: 90,152
+Titik yang dimasukkan ke peta: 92,887.
+Grafik yang dibuat: distribusi_magnitudo.png, distribusi_kedalaman.png, tren_gempa.png, magnitudo_vs_kedalaman.png.
+
+Catatan: hubungan statistik tidak membuktikan sebab-akibat. Hasil hanya merangkum katalog yang diberikan; cakupan dan kelengkapan katalog membatasi interpretasi.

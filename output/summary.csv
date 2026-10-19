@@ -1,0 +1,65 @@
+﻿bagian,metrik,nilai
+kualitas_data,jumlah_baris,92887
+kualitas_data,koordinat_valid,92887
+kualitas_data,koordinat_tidak_valid,0
+kualitas_data,waktu_terbaca,92887
+kualitas_data,waktu_tidak_terbaca,0
+kualitas_data,baris_duplikat,0
+missing_values,tgl,0
+missing_values,ot,0
+missing_values,lat,0
+missing_values,lon,0
+missing_values,depth,0
+missing_values,mag,0
+missing_values,remark,0
+missing_values,strike1,90152
+missing_values,dip1,90152
+missing_values,rake1,90152
+missing_values,strike2,90152
+missing_values,dip2,90152
+missing_values,rake2,90152
+statistik_magnitudo,count,92887
+statistik_magnitudo,mean,3.59279
+statistik_magnitudo,std,0.834042
+statistik_magnitudo,min,1
+statistik_magnitudo,25%,3
+statistik_magnitudo,50%,3.5
+statistik_magnitudo,75%,4.2
+statistik_magnitudo,max,7.9
+statistik_kedalaman,count,92887
+statistik_kedalaman,mean,49.0094
+statistik_kedalaman,std,76.7611
+statistik_kedalaman,min,2
+statistik_kedalaman,25%,10
+statistik_kedalaman,50%,16
+statistik_kedalaman,75%,54
+statistik_kedalaman,max,750
+statistik_lintang,count,92887
+statistik_lintang,mean,-3.40458
+statistik_lintang,std,4.35458
+statistik_lintang,min,-11
+statistik_lintang,25%,-7.885
+statistik_lintang,50%,-2.91
+statistik_lintang,75%,0.14
+statistik_lintang,max,6
+statistik_bujur,count,92887
+statistik_bujur,mean,119.16
+statistik_bujur,std,10.8332
+statistik_bujur,min,94.02
+statistik_bujur,25%,113.17
+statistik_bujur,50%,121.16
+statistik_bujur,75%,126.9
+statistik_bujur,max,142
+10_lokasi_teratas,1. Minahassa Peninsula - Sulawesi,9433
+10_lokasi_teratas,2. Sulawesi - Indonesia,7897
+10_lokasi_teratas,3. Sumbawa Region - Indonesia,7312
+10_lokasi_teratas,4. Java - Indonesia,6798
+10_lokasi_teratas,5. Northern Sumatra - Indonesia,5941
+10_lokasi_teratas,6. Southern Sumatra - Indonesia,5314
+10_lokasi_teratas,7. Banda Sea,5003
+10_lokasi_teratas,8. Northern Molucca Sea,4984
+10_lokasi_teratas,9. Seram - Indonesia,4325
+10_lokasi_teratas,10. Halmahera - Indonesia,3628
+rentang_waktu,mulai,2008-11-01T00:31:25.143000
+rentang_waktu,akhir,2023-01-26T23:58:35.638000
+peta,titik_dengan_koordinat_valid,92887
